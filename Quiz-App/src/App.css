@@ -1,0 +1,19 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.question-section {
+  margin-top: 40px;
+}
+
+.answer-section button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.result-section {
+  margin-top: 40px;
+}
